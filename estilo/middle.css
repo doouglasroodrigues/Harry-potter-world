@@ -30,7 +30,7 @@ section.primeira-img > p {
     color: white;
     max-width: 55%;
     font-size: 13px;
-    padding-top: 10px;
+    padding-top: 4px;
     padding-left: 20px;
     transition: width 3s, height 3s;
     transition-timing-function: ease;
