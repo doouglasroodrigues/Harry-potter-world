@@ -1,0 +1,265 @@
+@charset "utf-8";
+
+main > section.primeira-img  {
+    background-image: url(../Imagen/Primeiro.png);
+    background-size: contain;
+    background-position: top right;
+    background-repeat: no-repeat;
+    transition: width 3s, height 3s;
+    transition-timing-function: ease;
+    width: 90%;
+    height: 70vh;
+
+}
+section.primeira-img > h1 {
+    color: white;
+    padding-top: 10%;
+    padding-left: 5%;
+    font-size: 0.9em;
+    font-variant: small-caps;
+  
+}
+
+section.primeira-img > p {
+    color: white;
+    width: 47%;
+    font-size: 14px;
+    padding-top: 1%;
+    padding-left: 5%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: width 3s, height 3s;
+    transition-timing-function: ease;
+}
+
+article.fundo > img.filme1 {
+    display: block;
+    position: absolute;
+    width: 25%;
+    
+    border: 5px solid rgba(108, 108, 230, 0.63);
+    border-radius: 10px 10px 10px 10px;
+    top: 13%;
+    left: 7%;
+}
+
+article.informação {
+    transition: width 3s, height 3s;
+    transition-timing-function: ease;
+    display: block;
+    float: right;
+    width: 60%;
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    text-align: justify;
+    color: white;   
+    
+}
+
+article.informação > p {
+    text-align: justify;
+    border-radius: 25px;
+    font-size: 12px;
+    background-color: rgba(99, 132, 240, 0.342);
+}
+article.informação > h2 {
+
+    text-align: center;
+    font-size: 15px;
+}
+
+iframe {
+    position: ;
+    background-color: black;
+    width: 50%;
+    height: 47%;
+}
+
+iframe.trailer {
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    display: block;
+    margin: auto;
+    border: 4px solid rgb(36, 36, 173);
+    border-radius: 15px;
+}
+
+
+article.informação > h2 {
+    text-align: center;
+}
+
+/*Segundo filme*/
+
+article.filme2 > img.capa2 {
+    display: block;
+    position: absolute;
+    width: 25%;
+    border-radius: 10px 10px 10px 10px;
+    top: 13%;
+    left: 7%;
+}
+
+article.informação2 {
+    transition: width 3s, height 3s;
+    transition-timing-function: ease;
+    display: block;
+    float: right;
+    width: 60%;
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    text-align: justify;
+    color: white;   
+    
+}
+
+article.informação2 > p {
+    text-align: justify;
+    border-radius: 25px;
+    font-size: 12px;
+}
+article.informação2 > h2 {
+
+    text-align: center;
+    font-size: 13px;
+}
+
+iframe {
+    position: ;
+    background-color: black;
+    width: 50%;
+    height: 47%;
+}
+
+iframe.trailer2 {
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+article.informação2 > h2 {
+    text-align: center;
+}
+
+/*Terceiro Filme*/
+
+article.Filme3 > img.capa3 {
+    display: block;
+    position: absolute;
+    width: 25%;
+    border-radius: 10px 10px 10px 10px;
+    top: 13%;
+    left: 7%;
+}
+
+article.informação3 {
+    transition: width 3s, height 3s;
+    transition-timing-function: ease;
+    display: block;
+    float: right;
+    width: 60%;
+    padding-top: 70px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    text-align: justify;
+    color: white;   
+    
+}
+
+article.informação3 > p {
+    
+    text-align: justify;
+    border-radius: 25px;
+    font-size: 12px;
+}
+article.informação3 > h2 {
+
+    text-align: center;
+    font-size: 13px;
+}
+
+iframe {
+    position: ;
+    background-color: black;
+    width: 50%;
+    height: 47%;
+}
+
+iframe.trailer3 {
+    position: absolute;
+    top: 44%;
+    left: 41%;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+article.informação3 > h2 {
+    text-align: center;
+}
+
+/*Quarto Filme*/
+
+article.Filme4 > img.capa4 {
+    display: block;
+    position: absolute;
+    width: 25%;
+    border-radius: 10px 10px 10px 10px;
+    top: 13%;
+    left: 7%;
+}
+
+article.informação4 {
+    transition: width 3s, height 3s;
+    transition-timing-function: ease;
+    display: block;
+    float: right;
+    width: 60%;
+    padding-top: 70px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    text-align: justify;
+    color: white;   
+    
+}
+
+article.informação4 > p {
+    
+    text-align: justify;
+    border-radius: 25px;
+    font-size: 12px;
+}
+article.informação4 > h2 {
+
+    text-align: center;
+    font-size: 13px;
+}
+
+iframe {
+    position: ;
+    background-color: black;
+    width: 50%;
+    height: 47%;
+}
+
+iframe.trailer4 {
+    position: absolute;
+    top: 44%;
+    left: 41%;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+article.informação4 > h2 {
+    text-align: center;
+}
