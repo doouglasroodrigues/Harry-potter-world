@@ -11,7 +11,7 @@ main > section.primeira-img  {
     transition: width 8s, height 8s;
     transition-timing-function: ease;
     width: 80%;
-    height: 80vh;
+    height: 100vh;
 }
 
 section.primeira-img > h1 {
@@ -25,7 +25,7 @@ section.primeira-img > h1 > strong {
     display: block;
     padding-top: 10px;
     padding-left: 17%;
-    font-size: 1.5em;
+    font-size: 4vh;
 }
 
 
@@ -38,7 +38,7 @@ section.primeira-img > p {
     text-align: justify;
     width: 100%;
     height: 100%;
-    font-size: 11.6px;
+    font-size: 16px;
     transition: width 3s, height 3s;
     transition-timing-function: ease;
     font-family: Arial, Helvetica, sans-serif;
@@ -91,7 +91,7 @@ iframe {
 
 iframe.trailer {
     position: absolute;
-    top: 77%;
+    top: 72%;
     left: 42%;
     display: block;
     margin: auto;
@@ -152,7 +152,7 @@ iframe {
 
 iframe.trailer2 {
     position: absolute;
-    top: 77%;
+    top: 72%;
     left: 42%;
     display: block;
     margin: auto;
@@ -213,7 +213,7 @@ iframe {
 
 iframe.trailer3 {
     position: absolute;
-    top: 77%;
+    top: 69%;
     left: 42%;
     display: block;
     margin: auto;
@@ -275,7 +275,7 @@ iframe {
 
 iframe.trailer4 {
     position: absolute;
-    top: 77%;
+    top: 69%;
     left: 42%;
     display: block;
     margin: auto;
